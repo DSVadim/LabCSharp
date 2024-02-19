@@ -1,0 +1,11 @@
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\bin\Debug\LAB1C#.exe.config
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\bin\Debug\LAB1C#.exe
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\bin\Debug\LAB1C#.pdb
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C#.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C_.Form1.resources
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C_.Properties.Resources.resources
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C#.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C#.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C#.exe
+C:\Users\vadim\source\repos\LAB1C#\LAB1C#\obj\Debug\LAB1C#.pdb
