@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D31A6257-E050-4331-84E4-B4209B9E7F17}</ProjectGuid>
+    <ProjectGuid>{98D6F397-D17B-48D7-8005-E8FC0F0F9E3E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>LAB1C_</RootNamespace>
-    <AssemblyName>LAB1C#</AssemblyName>
+    <RootNamespace>LABA1C_</RootNamespace>
+    <AssemblyName>LABA1C#</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -52,11 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="List.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Student.cs" />
-    <Compile Include="StudentViewModel.cs" />
+    <Compile Include="Models\StudentVm.cs" />
+    <Compile Include="FileManager.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -83,7 +82,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="students.txt" />
+    <None Include="students.dat" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

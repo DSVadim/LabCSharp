@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LAB1C_.Properties
+namespace LABA1C_.Properties
 {
 
 

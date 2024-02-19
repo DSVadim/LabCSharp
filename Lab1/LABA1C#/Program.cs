@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LAB1C_
+namespace LABA1C_
 {
     internal static class Program
     {
@@ -19,6 +18,5 @@ namespace LAB1C_
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-
     }
 }
